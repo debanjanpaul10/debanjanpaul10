@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Debanjan Paul this side
 
 <!--
 **debanjanpaul10/debanjanpaul10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an Electrical Engineering Student graduating with a Bachelor's Degree from Maulana Abul Kalam Azad University of Technology in the month of July 2021. I have some coding 'kink' as it can be described and also have some good knowledge on both latest coding techniques as well as good in-depth knowledge on Electrical Engineering Skills.
+As of now I'm currently working on towards developing both my personality traits and also my coding skills so as to land a good job in an enthusiastic work environment.
+Hoping to do something valuable to be an Arctic Vault contributor.
+### Kudos !!! 😄😄❤️❤️❤️
