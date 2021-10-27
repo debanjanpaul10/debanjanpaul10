@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an Electrical Engineering Student graduating with a Bachelor's Degree from Maulana Abul Kalam Azad University of Technology in the month of July 2021. I have some coding 'kink' as it can be described and also have some good knowledge on both latest coding techniques as well as good in-depth knowledge on Electrical Engineering Skills.
-As of now I'm currently working on towards developing both my personality traits and also my coding skills so as to land a good job in an enthusiastic work environment.
-Hoping to do something valuable to be an Arctic Vault contributor.
-Check out my portfolio website -- <a href= "https://debanjanpaul10.github.io" target="_blank"><b>Portfolio</b></a>
+- 🔭 An Software Developer with extensive knowledge in Azure Cloud Development with .NET and Java background.
+- 🌱 Currently learning to be better at the coding job as well as to be a valueable contributor to the coding world.
+- 👯 Working as a Software Engineer at Larsen & Toubro Infotech Limited with Azure PaaS domain hoping to expand the horizon of my skills.
+- 💬 Ask me about anything, from a meaningful conversation about existence and the earth to your favourite movies and TV shows
+- 📫 Reach out to me at <a href="mailto:debanjanpaul10@gmail.com" target="_blank">my email</a>
+- ⚡ If you have some ideas and we have some matching interests, feel free to contact me anytime. Would love to collaborate.
+
 ### Kudos !!! 😄😄❤️❤️❤️
