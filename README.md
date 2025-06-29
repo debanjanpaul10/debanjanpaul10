@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 A Software Developer with extensive knowledge in Azure Cloud Development with .NET and React background.
 - 🌱 Currently learning to be better at the coding job as well as to be a valueable contributor to the coding world.
-- 👯 Working as a Software Engineer at Larsen & Toubro Infotech Limited with Azure PaaS domain hoping to expand the horizon of my skills.
+- 👯 Working as a Software Engineer at EY GDS with Azure PaaS domain hoping to expand the horizon of my skills.
 - 💬 Ask me about anything, from a meaningful conversation about existence and the earth to your favourite movies and TV shows
 - 📫 Reach out to me at <a href="mailto:debanjanpaul10@gmail.com" target="_blank">my email</a>
 - ⚡ If you have some ideas and we have some matching interests, feel free to contact me anytime. Would love to collaborate.
