@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 A Software Developer with extensive knowledge in Azure Cloud Development with .NET and React background.
+- 🔭 A Software Developer with extensive knowledge in Azure Cloud Development with .NET with both React and Angular background.
 - 🌱 Currently learning to be better at the coding job as well as to be a valueable contributor to the coding world.
 - 👯 Working as a Software Engineer at EY GDS with Azure PaaS domain hoping to expand the horizon of my skills.
 - 💬 Ask me about anything, from a meaningful conversation about existence and the earth to your favourite movies and TV shows
